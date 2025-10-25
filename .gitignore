@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data files (optional - if datasets are too large)
+# data/*.csv
+
+# Model files (optional - if models are too large)
+# models/*.pkl
+
+# Virtual environment
+venv/
+env/
