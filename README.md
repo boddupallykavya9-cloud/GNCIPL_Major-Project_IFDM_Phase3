@@ -71,9 +71,9 @@ The app will open in your browser at http://localhost:8501
 ## Models Evaluated
 | Model | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|-----------|--------|----------|
-| Random Forest | - | - | - | - |
-| XGBoost | - | - | - | - |
-| Logistic Regression | - | - | - | - |
+| Random Forest | 1.000000 | 1.000000 | 1.0 | 1.000000 |
+| XGBoost | 0.996269 | 0.993711 | 1.0 | 0.996845 |
+| Logistic Regression | 1.000000 | 1.000000 | 1.0 | 1.000000 |
 
 Note: Fill in actual metrics from your results
 
