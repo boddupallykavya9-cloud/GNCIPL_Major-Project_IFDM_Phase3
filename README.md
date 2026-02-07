@@ -75,7 +75,6 @@ The app will open in your browser at http://localhost:8501
 | XGBoost | 0.996269 | 0.993711 | 1.0 | 0.996845 |
 | Logistic Regression | 1.000000 | 1.000000 | 1.0 | 1.000000 |
 
-Note: Fill in actual metrics from your results
 
 ## Key Insights
 - No missing values in dataset
